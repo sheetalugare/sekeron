@@ -1,0 +1,57 @@
+.container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('../../assets/images/ic_coming_soon_background_grid.webp');
+    background-repeat: repeat-x;
+    background-size: contain;
+}
+
+.static-container {
+    display: flex;
+    flex-direction: column;
+    row-gap: 5rem;
+    align-items: center;
+}
+
+.static-container>p {
+    color: var(--white-color);
+    font-size: 4rem;
+    font-weight: normal;
+    font-family: "Golos Text";
+}
+
+.sekeron-logo {
+    width: 35rem;
+    height: 20rem;
+    object-fit: contain;
+    aspect-ratio: 16 / 9;
+}
+
+.gif-image {
+    width: 80rem;
+    height: auto;
+}
+
+@media screen and (max-width:840px) {
+
+    .sekeron-logo {
+        width: 20rem;
+        height: 10rem;
+    }
+
+    .gif-image {
+        width: 100%;
+        height: auto;
+    }
+
+    .static-container>p {
+        font-size: 2.2rem;
+    }
+
+    .static-container {
+        row-gap: 4rem;
+    }
+}

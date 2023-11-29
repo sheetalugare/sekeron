@@ -1,0 +1,26 @@
+<svg width="540" height="343" viewBox="0 0 540 343" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <radialGradient cx="50%" cy="50.255%" fx="50%" fy="50.255%" r="49.745%" gradientTransform="matrix(0 1 -1.51775 0 1.263 .003)" id="b3sj3rq2la">
+            <stop stop-color="#F7F7F7" offset="0%"/>
+            <stop stop-color="#171616" offset="100%"/>
+        </radialGradient>
+    </defs>
+    <g transform="translate(2 2)" fill="none" fill-rule="evenodd">
+        <rect stroke="url(#b3sj3rq2la)" stroke-width="3" fill="#000" width="536" height="339" rx="24"/>
+        <g fill-rule="nonzero" transform="translate(54 34)">
+            <path d="M82.499 89.999c0-20.709-16.79-37.5-37.5-37.5C24.291 52.5 7.5 69.29 7.5 90H0c0-24.851 20.148-45 45-45 24.85 0 44.999 20.149 44.999 45h-7.5zM52.5 0c0 20.709 16.79 37.5 37.499 37.5V45c-24.851 0-45-20.15-45-45h7.5z" fill="#FC854A"/>
+            <circle fill="#FFD24D" cx="78.749" cy="11.25" r="11.25"/>
+            <circle fill="#FFD24D" cx="44.999" cy="75.001" r="14.999"/>
+            <circle fill="#26DCC6" cx="18.75" cy="18.75" r="18.75"/>
+        </g>
+        <text font-family="GolosText-Medium, Golos Text" font-size="52" font-weight="400" fill="#FFF" transform="translate(54 34)">
+                                        <tspan x="118" y="65">Connect</tspan>
+                                    </text>
+        <text font-family="Nunito-Regular, Nunito" font-size="22" fill="#C8CBD3" transform="translate(44 34)">
+                                    <tspan x="0" y="173">Chat, follow, and learn from artists around </tspan>
+                                    <tspan x="0" y="203">the world. Be a part of a global community </tspan>
+                                    <tspan x="0" y="233">where everyone grows together</tspan>
+                                </text>
+        <path stroke="#EBEBEB" opacity=".163" d="M44 154.5h447"/>
+    </g>
+</svg>
